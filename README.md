@@ -1,1 +1,81 @@
 "# MarkusVrager.github.io" 
+<!DOCTYPE html>
+<html>
+<head lang="en">
+<meta charset="UTF-8">
+</head>
+<body>
+<h1>
+"Raju Reede" laulusõnad
+</h1>
+<h3>
+213079
+<p><pre>
+On suvetuuride aeg
+Päike armutult praeb
+Ma olen su poole teel
+Kui Eesti hiti kassett
+Mis vahele kerib taas
+On tunded segased peas
+Elu põnevaks muutunud meil
+Ma olen sinuga kui telekamängus
+Super Mariona põgened eest
+Kuid reede õhtul juba parem kõik tundub
+Pidu, mis ei unune on rahvas baarilettidel
+Kui käes on raju reede
+Miniseelik punane, kuid longerod on sinised
+Nii algab raju reede!
+Nüüd saadan ma su piiparile teate
+Ma vajan sind, sa tead ma ei oota
+See pidu jääb meil eluksajaks meelde
+On öö nii kuum ja käes on raju reede.
+Kas mäletad sa veel kui valge BMW, mille endale said
+Viis Tartust Haanjasse või Dekoltee'sse meid,
+See oli lõputu sõit
+Sa tunnistasid, et mu pärast sa pead
+Rohkem töötama ja veidi vähem jooma
+Ja siis kui oma äri käima sa saad
+Läbi Tallinna me jõuame Rooma
+Pidu mis ei unune on rahvas baarilettidel
+Kui käes on raju reede
+Miniseelik punane, kuid longerod on sinised
+Nii algab raju reede!
+Nüüd saadan ma su piiparile teate
+Ma vajan sind, sa tead ma ei oota
+See pidu jääb meil eluksajaks meelde
+On öö nii kuum ja käes on raju reede.
+Pidu, mis ei unune on rahvas baarilettidel
+Kui käes on raju reede
+Miniseelik punane, kuid longerod on sinised
+Nii algab raju reede!
+Nüüd saadan ma su piiparile teate
+Ma vajan sind, sa tead ma ei oota
+See pidu jääb meil eluksajaks meelde
+On öö nii kuum ja käes on raju reede.
+</pre><p>
+<img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FTalTechUniversity%2F&psig=AOvVaw0-XJXW1-WOgBrBqRmZOS15&ust=1667631961728000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOicuaf7k_sCFQAAAAAdAAAAABAS" alt="Taltech"
+<a href="https://taltech.ee/">
+Link taltech lehele
+</a>
+<table>
+<caption>
+väike korrutus tabel
+</caption>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2</td>
+<td>4</td>
+<td>6</td>
+</tr>
+<tr>
+<td>3</td>
+<td>6</td>
+<td>9</td>
+</tr>
+</table>
+</body>
+</html>
